@@ -1,4 +1,4 @@
-package org.avg.exercises;
+package org.avg.exercises.basic;
 
 public class Hanoi {
 
